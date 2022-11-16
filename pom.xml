@@ -11,7 +11,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<!-- Use the latest version whenever possible. -->
-		<jackson.version>2.9.4</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<log4j.version>1.2.11</log4j.version>
 	</properties>
 	<profiles>
